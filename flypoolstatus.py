@@ -94,7 +94,7 @@ def error(bot, update, error):
 
 
 # Create the Updater and pass it your bot's token.
-updater = Updater("379624809:AAE9kU2kzQEbF7TMJ0TkbEq4oyTngL1VrbE")
+updater = Updater("apikey")
 job_queue = updater.job_queue
 
 
